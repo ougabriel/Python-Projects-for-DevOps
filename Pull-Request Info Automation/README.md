@@ -17,7 +17,7 @@ This project uses the popular Kubernetes repo as sample to test this script.
 
 
 **Output Result**
-!output for pullrequest.py](image.png)
+![alt text](image.png)
 
 
 
