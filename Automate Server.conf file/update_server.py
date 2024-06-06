@@ -9,4 +9,4 @@ def update_server_config(file_path, key, value):
                 file.write(key + "=" + value + "\n")
             else:
                 file.write(line)
-update_server_config(".\server.conf", "MAX_CONNECTIONS", "1000")
+update_server_config("./server.conf", "MAX_CONNECTIONS", "1000")
