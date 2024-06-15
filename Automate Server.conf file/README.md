@@ -10,7 +10,7 @@
 
 
 
-Here's an algorithm for the given script:
+Here's an algorithm for the given script::
 
 ```
 FUNCTION update_server_config(file_path, key, value)
